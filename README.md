@@ -45,14 +45,4 @@ String formatting
 File handling
 
 
-## Created By
-Zuhha Noor
-Instagram + Etsy Seller, AI student, and Python learner
-🇵🇰 Based in Pakistan — Growing globally 🌍
-
-
-## License
-This project is open-source and free to use. Commercial reuse allowed with credit.
-
-
 
